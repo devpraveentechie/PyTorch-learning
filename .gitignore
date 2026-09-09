@@ -1,0 +1,43 @@
+# Anaconda local files
+anaconda_projects/db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch / ML
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Datasets
+data/
+datasets/
+
+# Logs / experiment outputs
+logs/
+runs/
+outputs/
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
